@@ -141,7 +141,7 @@
       "name": "Banco Bilbao Viscaya Argentaria S.A.",
       "marketCap": "$88,754,596,161",
       "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "$0.47",
+      "epsForecast": "$0.46",
       "noOfEsts": "1"
     },
     {
@@ -218,7 +218,7 @@
       "name": "Agnico Eagle Mines Limited",
       "marketCap": "$63,945,274,224",
       "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "$1.69",
+      "epsForecast": "$1.67",
       "noOfEsts": "7"
     },
     {
@@ -296,7 +296,7 @@
       "marketCap": "$44,669,617,792",
       "fiscalQuarterEnding": "Jun/2025",
       "epsForecast": "$1.96",
-      "noOfEsts": "4"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "7/31/2024",
@@ -461,7 +461,7 @@
       "marketCap": "$32,308,222,323",
       "fiscalQuarterEnding": "Jun/2025",
       "epsForecast": "$0.86",
-      "noOfEsts": "11"
+      "noOfEsts": "10"
     },
     {
       "lastYearRptDt": "7/30/2024",
@@ -680,7 +680,7 @@
       "name": "Kinross Gold Corporation",
       "marketCap": "$19,837,356,000",
       "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "$0.30",
+      "epsForecast": "$0.29",
       "noOfEsts": "6"
     },
     {
@@ -867,7 +867,7 @@
       "name": "United Therapeutics Corporation",
       "marketCap": "$13,785,035,055",
       "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "$6.80",
+      "epsForecast": "$6.91",
       "noOfEsts": "8"
     },
     {
@@ -1142,7 +1142,7 @@
       "name": "Murphy USA Inc.",
       "marketCap": "$8,425,969,769",
       "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "$6.82",
+      "epsForecast": "$6.88",
       "noOfEsts": "4"
     },
     {
@@ -1252,7 +1252,7 @@
       "name": "Etsy, Inc.",
       "marketCap": "$6,555,182,612",
       "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "$0.54",
+      "epsForecast": "$0.53",
       "noOfEsts": "11"
     },
     {
@@ -1298,6 +1298,17 @@
       "fiscalQuarterEnding": "Jun/2025",
       "epsForecast": "$0.70",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "7/31/2024",
+      "lastYearEPS": "$0.03",
+      "time": "time-not-supplied",
+      "symbol": "CWAN",
+      "name": "Clearwater Analytics Holdings, Inc.",
+      "marketCap": "$6,033,943,193",
+      "fiscalQuarterEnding": "Jun/2025",
+      "epsForecast": "$0.04",
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "7/30/2024",
@@ -1483,7 +1494,7 @@
       "name": "Modine Manufacturing Company",
       "marketCap": "$5,176,318,040",
       "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "$0.93",
+      "epsForecast": "$0.95",
       "noOfEsts": "5"
     },
     {
@@ -1703,7 +1714,7 @@
       "name": "Compass, Inc.",
       "marketCap": "$3,779,036,132",
       "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "$0.07",
+      "epsForecast": "$0.08",
       "noOfEsts": "3"
     },
     {
@@ -2390,6 +2401,17 @@
     },
     {
       "lastYearRptDt": "7/31/2024",
+      "lastYearEPS": "$0.62",
+      "time": "time-not-supplied",
+      "symbol": "BBSI",
+      "name": "Barrett Business Services, Inc.",
+      "marketCap": "$1,169,220,052",
+      "fiscalQuarterEnding": "Jun/2025",
+      "epsForecast": "$0.64",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "7/31/2024",
       "lastYearEPS": "$1.10",
       "time": "time-after-hours",
       "symbol": "EIG",
@@ -2408,7 +2430,7 @@
       "marketCap": "$1,086,611,197",
       "fiscalQuarterEnding": "Jun/2025",
       "epsForecast": "($0.03)",
-      "noOfEsts": "2"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "7/31/2024",
@@ -2506,7 +2528,7 @@
       "name": "Redwood Trust, Inc.",
       "marketCap": "$818,673,019",
       "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "$0.19",
+      "epsForecast": "$0.13",
       "noOfEsts": "3"
     },
     {
@@ -2556,7 +2578,7 @@
     {
       "lastYearRptDt": "7/31/2024",
       "lastYearEPS": "$0.25",
-      "time": "time-pre-market",
+      "time": "time-not-supplied",
       "symbol": "SXC",
       "name": "SunCoke Energy, Inc.",
       "marketCap": "$743,236,632",
@@ -2640,6 +2662,17 @@
       "fiscalQuarterEnding": "Jun/2025",
       "epsForecast": "",
       "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "7/31/2024",
+      "lastYearEPS": "$0.34",
+      "time": "time-not-supplied",
+      "symbol": "AVNS",
+      "name": "Avanos Medical, Inc.",
+      "marketCap": "$560,014,598",
+      "fiscalQuarterEnding": "Jun/2025",
+      "epsForecast": "$0.18",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "7/31/2024",
@@ -2774,17 +2807,6 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "7/24/2024",
-      "lastYearEPS": "$0.17",
-      "time": "time-after-hours",
-      "symbol": "SPOK",
-      "name": "Spok Holdings, Inc.",
-      "marketCap": "$365,363,977",
-      "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "$0.18",
-      "noOfEsts": "1"
-    },
-    {
       "lastYearRptDt": "8/06/2024",
       "lastYearEPS": "$0.20",
       "time": "time-after-hours",
@@ -2798,7 +2820,7 @@
     {
       "lastYearRptDt": "7/31/2024",
       "lastYearEPS": "$0.27",
-      "time": "time-after-hours",
+      "time": "time-not-supplied",
       "symbol": "HVT",
       "name": "Haverty Furniture Companies, Inc.",
       "marketCap": "$358,754,377",
@@ -2820,7 +2842,7 @@
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.27",
-      "time": "time-after-hours",
+      "time": "time-not-supplied",
       "symbol": "HVT.A",
       "name": "Haverty Furniture Companies, Inc.",
       "marketCap": "$342,116,961",
@@ -2895,9 +2917,31 @@
       "noOfEsts": "2"
     },
     {
+      "lastYearRptDt": "7/31/2024",
+      "lastYearEPS": "($0.08)",
+      "time": "time-not-supplied",
+      "symbol": "VNDA",
+      "name": "Vanda Pharmaceuticals Inc.",
+      "marketCap": "$285,242,893",
+      "fiscalQuarterEnding": "Jun/2025",
+      "epsForecast": "($0.34)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "7/31/2024",
+      "lastYearEPS": "$0.21",
+      "time": "time-not-supplied",
+      "symbol": "MG",
+      "name": "Mistras Group Inc",
+      "marketCap": "$260,350,754",
+      "fiscalQuarterEnding": "Jun/2025",
+      "epsForecast": "$0.17",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.42",
-      "time": "time-after-hours",
+      "time": "time-not-supplied",
       "symbol": "HBB",
       "name": "Hamilton Beach Brands Holding Company",
       "marketCap": "$245,627,250",
@@ -2985,7 +3029,7 @@
     {
       "lastYearRptDt": "7/31/2024",
       "lastYearEPS": "$1.16",
-      "time": "time-after-hours",
+      "time": "time-not-supplied",
       "symbol": "GTE",
       "name": "Gran Tierra Energy Inc.",
       "marketCap": "$161,976,441",
@@ -3024,6 +3068,17 @@
       "marketCap": "$151,715,761",
       "fiscalQuarterEnding": "Jun/2025",
       "epsForecast": "($0.27)",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "7/31/2024",
+      "lastYearEPS": "($0.12)",
+      "time": "time-not-supplied",
+      "symbol": "MRAM",
+      "name": "Everspin Technologies, Inc.",
+      "marketCap": "$150,531,888",
+      "fiscalQuarterEnding": "Jun/2025",
+      "epsForecast": "$0.03",
       "noOfEsts": "1"
     },
     {
@@ -3149,6 +3204,17 @@
     },
     {
       "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.13",
+      "time": "time-not-supplied",
+      "symbol": "CLST",
+      "name": "Catalyst Bancorp, Inc.",
+      "marketCap": "$51,630,803",
+      "fiscalQuarterEnding": "Jun/2025",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
       "lastYearEPS": "($1.93)",
       "time": "time-not-supplied",
       "symbol": "FATBB",
@@ -3209,6 +3275,17 @@
       "symbol": "GIGM",
       "name": "GigaMedia Limited",
       "marketCap": "$16,037,898",
+      "fiscalQuarterEnding": "Jun/2025",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.08)",
+      "time": "time-not-supplied",
+      "symbol": "SCKT",
+      "name": "Socket Mobile, Inc.",
+      "marketCap": "$9,604,844",
       "fiscalQuarterEnding": "Jun/2025",
       "epsForecast": "",
       "noOfEsts": "2"

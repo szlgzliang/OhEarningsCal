@@ -25,6 +25,17 @@
     },
     {
       "lastYearRptDt": "8/15/2024",
+      "lastYearEPS": "$2.12",
+      "time": "time-not-supplied",
+      "symbol": "AMAT",
+      "name": "Applied Materials, Inc.",
+      "marketCap": "$150,075,191,561",
+      "fiscalQuarterEnding": "Jul/2025",
+      "epsForecast": "$2.34",
+      "noOfEsts": "12"
+    },
+    {
+      "lastYearRptDt": "8/15/2024",
       "lastYearEPS": "$1.24",
       "time": "time-not-supplied",
       "symbol": "JD",
@@ -663,6 +674,17 @@
     },
     {
       "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "ROLR",
+      "name": "High Roller Technologies, Inc.",
+      "marketCap": "$22,668,224",
+      "fiscalQuarterEnding": "Jun/2025",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "N/A",
       "lastYearEPS": "$1.80",
       "time": "time-not-supplied",
       "symbol": "SPCB",
@@ -838,7 +860,7 @@
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "N/A",
+      "lastYearRptDt": "8/15/2024",
       "lastYearEPS": "($3.79)",
       "time": "time-not-supplied",
       "symbol": "NCNA",

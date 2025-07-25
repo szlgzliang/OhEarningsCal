@@ -75,7 +75,7 @@
       "name": "Phillips 66",
       "marketCap": "$52,109,344,125",
       "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "$1.63",
+      "epsForecast": "$1.66",
       "noOfEsts": "6"
     },
     {
@@ -130,7 +130,7 @@
       "name": "Saia, Inc.",
       "marketCap": "$8,282,642,875",
       "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "$2.40",
+      "epsForecast": "$2.39",
       "noOfEsts": "8"
     },
     {
@@ -284,7 +284,7 @@
       "name": "Virtus Investment Partners, Inc.",
       "marketCap": "$1,478,850,873",
       "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "$6.17",
+      "epsForecast": "$6.21",
       "noOfEsts": "3"
     },
     {
@@ -308,17 +308,6 @@
       "fiscalQuarterEnding": "Jun/2025",
       "epsForecast": "$0.55",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "7/26/2024",
-      "lastYearEPS": "$2.04",
-      "time": "time-not-supplied",
-      "symbol": "BHRB",
-      "name": "Burke & Herbert Financial Services Corp.",
-      "marketCap": "$974,451,910",
-      "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "$1.85",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "7/26/2024",
@@ -407,39 +396,6 @@
       "fiscalQuarterEnding": "Jun/2025",
       "epsForecast": "($0.12)",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.77",
-      "time": "time-not-supplied",
-      "symbol": "VABK",
-      "name": "Virginia National Bankshares Corporation",
-      "marketCap": "$205,596,159",
-      "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "",
-      "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "7/26/2024",
-      "lastYearEPS": "$0.89",
-      "time": "time-not-supplied",
-      "symbol": "EFSI",
-      "name": "Eagle Financial Services Inc",
-      "marketCap": "$182,756,741",
-      "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "$0.82",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "7/26/2024",
-      "lastYearEPS": "$0.30",
-      "time": "time-not-supplied",
-      "symbol": "MRBK",
-      "name": "Meridian Corporation",
-      "marketCap": "$167,586,378",
-      "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "$0.42",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",

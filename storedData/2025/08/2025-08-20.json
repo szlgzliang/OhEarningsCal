@@ -311,6 +311,17 @@
     },
     {
       "lastYearRptDt": "8/21/2024",
+      "lastYearEPS": "$0.32",
+      "time": "time-not-supplied",
+      "symbol": "CCIF",
+      "name": "Carlyle Credit Income Fund",
+      "marketCap": "$67,284,887",
+      "fiscalQuarterEnding": "Jun/2025",
+      "epsForecast": "$0.24",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "8/21/2024",
       "lastYearEPS": "($0.26)",
       "time": "time-not-supplied",
       "symbol": "CMMB",
