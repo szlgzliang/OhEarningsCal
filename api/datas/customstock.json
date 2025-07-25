@@ -1,12 +1,17 @@
 [
     {
-        "symbol": "XPEV",
-        "companyName": "小鹏汽车",
-        "industry": "汽车"
+        "symbol": "DOW",
+        "companyName": "陶氏公司",
+        "industry": "周期性"
     },
     {
-        "symbol": "AI",
-        "companyName": "C3.ai",
-        "industry": "软件"
+        "symbol": "LULU",
+        "companyName": "露露柠檬",
+        "industry": "消费"
+    },
+    {
+        "symbol": "UNH",
+        "companyName": "联合健康集团",
+        "industry": "医疗"
     }
 ]
