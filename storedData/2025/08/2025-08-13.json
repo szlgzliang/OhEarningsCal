@@ -15,17 +15,6 @@
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "CRWV",
-      "name": "CoreWeave, Inc.",
-      "marketCap": "$60,501,117,615",
-      "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "($0.49)",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
       "time": "time-pre-market",
       "symbol": "VG",
       "name": "Venture Global, Inc.",
@@ -134,17 +123,6 @@
       "noOfEsts": "10"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.08",
-      "time": "time-not-supplied",
-      "symbol": "BULL",
-      "name": "Webull Corporation",
-      "marketCap": "$8,186,145,033",
-      "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "",
-      "noOfEsts": "2"
-    },
-    {
       "lastYearRptDt": "8/14/2024",
       "lastYearEPS": "$1.61",
       "time": "time-not-supplied",
@@ -185,7 +163,7 @@
       "name": "Hudbay Minerals Inc.",
       "marketCap": "$4,076,421,290",
       "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "$0.14",
+      "epsForecast": "$0.11",
       "noOfEsts": "15"
     },
     {
@@ -233,6 +211,17 @@
       "noOfEsts": "2"
     },
     {
+      "lastYearRptDt": "8/07/2024",
+      "lastYearEPS": "($0.01)",
+      "time": "time-after-hours",
+      "symbol": "EQX",
+      "name": "Equinox Gold Corp.",
+      "marketCap": "$2,914,520,017",
+      "fiscalQuarterEnding": "Jun/2025",
+      "epsForecast": "$0.15",
+      "noOfEsts": "2"
+    },
+    {
       "lastYearRptDt": "8/14/2024",
       "lastYearEPS": "($0.06)",
       "time": "time-not-supplied",
@@ -275,17 +264,6 @@
       "fiscalQuarterEnding": "Jun/2025",
       "epsForecast": "($0.12)",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "8/14/2024",
-      "lastYearEPS": "($0.42)",
-      "time": "time-not-supplied",
-      "symbol": "ARQT",
-      "name": "Arcutis Biotherapeutics, Inc.",
-      "marketCap": "$1,777,297,705",
-      "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "($0.17)",
-      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "8/01/2024",
@@ -363,17 +341,6 @@
       "fiscalQuarterEnding": "Jun/2025",
       "epsForecast": "$0.50",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "8/14/2024",
-      "lastYearEPS": "$0.40",
-      "time": "time-not-supplied",
-      "symbol": "SDHC",
-      "name": "Smith Douglas Homes Corp.",
-      "marketCap": "$1,161,742,142",
-      "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "$0.25",
-      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "8/14/2024",
@@ -482,7 +449,7 @@
       "name": "Maze Therapeutics, Inc.",
       "marketCap": "$772,582,008",
       "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "($0.70)",
+      "epsForecast": "($0.79)",
       "noOfEsts": "2"
     },
     {
@@ -543,7 +510,7 @@
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.12",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "BORR",
       "name": "Borr Drilling Limited",
       "marketCap": "$531,491,202",
@@ -1828,7 +1795,7 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "8/14/2024",
+      "lastYearRptDt": "N/A",
       "lastYearEPS": "($0.75)",
       "time": "time-not-supplied",
       "symbol": "NRXP",
@@ -1836,7 +1803,7 @@
       "marketCap": "$52,386,252",
       "fiscalQuarterEnding": "Jun/2025",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -2829,7 +2796,7 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "8/14/2024",
+      "lastYearRptDt": "N/A",
       "lastYearEPS": "($3.90)",
       "time": "time-after-hours",
       "symbol": "LVLU",
@@ -2837,7 +2804,7 @@
       "marketCap": "$12,281,861",
       "fiscalQuarterEnding": "Jun/2025",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "8/14/2024",
@@ -3159,15 +3126,15 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
+      "lastYearRptDt": "8/14/2024",
       "lastYearEPS": "($1.74)",
       "time": "time-not-supplied",
       "symbol": "SLNH",
       "name": "Soluna Holdings, Inc.",
       "marketCap": "$7,868,725",
       "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "",
-      "noOfEsts": "2"
+      "epsForecast": "($0.76)",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "8/14/2024",
