@@ -2984,6 +2984,17 @@
     },
     {
       "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.02",
+      "time": "time-pre-market",
+      "symbol": "NHTC",
+      "name": "Natural Health Trends Corp.",
+      "marketCap": "$53,363,103",
+      "fiscalQuarterEnding": "Jun/2025",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
       "lastYearEPS": "($0.05)",
       "time": "time-after-hours",
       "symbol": "AWRE",
