@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:NFjeB2hkcL3vPvB7QhgYE
+UID:mwKbwjVJqzXw8C8y1356b
 SUMMARY:联合健康集团 发布财报
-DTSTAMP:20250824T044708Z
+DTSTAMP:20250824T164537Z
 DTSTART;VALUE=DATE:20250729
 DESCRIPTION:财务季度：Jun/2025。\n代码：UNH，公司：联合健康集团，行业: 医疗。\n预计每股收益: $4.84，当前市值: $
 	236\,827\,154\,932。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n在富
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wa8Y6eLNLUrYkbk5c9BCn
+UID:NhBeCTV74PKx4Qdw9BBMb
 SUMMARY:露露柠檬 盘后发布财报
-DTSTAMP:20250824T044708Z
+DTSTAMP:20250824T164537Z
 DTSTART;VALUE=DATE:20250904
 DESCRIPTION:财务季度：Jul/2025。\n代码：LULU，公司：露露柠檬，行业: 消费。\n预计每股收益: $2.85，当前市值: $2
 	2\,737\,078\,437。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LULU \n在富途
