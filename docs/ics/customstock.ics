@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:o7QH5gWp9Cp1QwMPKPRYP
+UID:OCGmkj-16eTv7d2gjINNo
 SUMMARY:露露柠檬 发布财报
-DTSTAMP:20250924T164805Z
+DTSTAMP:20250925T044338Z
 DTSTART;VALUE=DATE:20250904
 DESCRIPTION:财务季度：Jul/2025。\n代码：LULU，公司：露露柠檬，行业: 消费。\n预计每股收益: $2.84，当前市值: $2
 	3\,644\,588\,229。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LULU \n在富途
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:iI3EQ01gblvlkOBRPmwbz
+UID:IJ6l21HBmLUM4b1ml6-5k
 SUMMARY:陶氏公司 盘前发布财报
-DTSTAMP:20250924T164805Z
+DTSTAMP:20250925T044338Z
 DTSTART;VALUE=DATE:20251023
 DESCRIPTION:财务季度：Sep/2025。\n代码：DOW，公司：陶氏公司，行业: 周期性。\n预计每股收益: ($0.27)，当前市值: 
-	$16\,423\,918\,979。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DOW \n在富
+	$16\,204\,177\,292。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DOW \n在富
 	途查看：https://www.futunn.com/hk/stock/DOW-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
