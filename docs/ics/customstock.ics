@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:LzR8HofmkVgHlncy0OxT4
+UID:ML5k-ASSQ9lrTfywwCak4
 SUMMARY:陶氏公司 盘前发布财报
-DTSTAMP:20251023T044416Z
+DTSTAMP:20251023T164819Z
 DTSTART;VALUE=DATE:20251023
 DESCRIPTION:财务季度：Sep/2025。\n代码：DOW，公司：陶氏公司，行业: 周期性。\n预计每股收益: ($0.31)，当前市值: 
-	$15\,417\,360\,284。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DOW \n在富
+	$15\,381\,918\,077。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DOW \n在富
 	途查看：https://www.futunn.com/hk/stock/DOW-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NpJoK2eFuFvX1PGg3bj27
+UID:8TeRuryK9Rq9ekVQIWLTn
 SUMMARY:联合健康集团 盘前发布财报
-DTSTAMP:20251023T044416Z
+DTSTAMP:20251023T164819Z
 DTSTART;VALUE=DATE:20251028
-DESCRIPTION:财务季度：Sep/2025。\n代码：UNH，公司：联合健康集团，行业: 医疗。\n预计每股收益: $2.84，当前市值: $
-	330\,905\,972\,366。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n在富
+DESCRIPTION:财务季度：Sep/2025。\n代码：UNH，公司：联合健康集团，行业: 医疗。\n预计每股收益: $2.80，当前市值: $
+	327\,391\,958\,701。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n在富
 	途查看：https://www.futunn.com/hk/stock/UNH-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
