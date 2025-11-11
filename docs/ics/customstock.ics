@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:HxIi7K7SbWrQ8oC3lfH6M
+UID:PkJD_EHS3jT1dUeELEQu0
 SUMMARY:陶氏公司 发布财报
-DTSTAMP:20251111T044623Z
+DTSTAMP:20251111T164951Z
 DTSTART;VALUE=DATE:20251023
 DESCRIPTION:财务季度：Sep/2025。\n代码：DOW，公司：陶氏公司，行业: 周期性。\n预计每股收益: ($0.31)，当前市值: 
 	$17\,373\,770\,141。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DOW \n在富
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:F3keW407q2vJY7tkrolbA
+UID:oiStC_lhLZCeZPkGlmOse
 SUMMARY:联合健康集团 发布财报
-DTSTAMP:20251111T044623Z
+DTSTAMP:20251111T164951Z
 DTSTART;VALUE=DATE:20251028
 DESCRIPTION:财务季度：Sep/2025。\n代码：UNH，公司：联合健康集团，行业: 医疗。\n预计每股收益: $2.75，当前市值: $
 	333\,142\,986\,220。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n在富
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:h90-pOsBvM_lRXYJGpHh_
+UID:0VU3zU5EJydpyBWtw8_hb
 SUMMARY:露露柠檬 发布财报
-DTSTAMP:20251111T044623Z
+DTSTAMP:20251111T164951Z
 DTSTART;VALUE=DATE:20251204
 DESCRIPTION:财务季度：Oct/2025。\n代码：LULU，公司：露露柠檬，行业: 消费。\n预计每股收益: $2.22，当前市值: $1
-	8\,850\,452\,463。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LULU \n在富途
+	9\,329\,287\,769。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LULU \n在富途
 	查看：https://www.futunn.com/hk/stock/LULU-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
