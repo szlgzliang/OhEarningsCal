@@ -2170,6 +2170,17 @@
     },
     {
       "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.31)",
+      "time": "time-pre-market",
+      "symbol": "IPWR",
+      "name": "Ideal Power Inc.",
+      "marketCap": "$43,084,931",
+      "fiscalQuarterEnding": "Sep/2025",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
       "lastYearEPS": "($0.06)",
       "time": "time-after-hours",
       "symbol": "TPCS",
@@ -2510,6 +2521,17 @@
       "noOfEsts": "2"
     },
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-pre-market",
+      "symbol": "CSAI",
+      "name": "Cloudastructure, Inc.",
+      "marketCap": "$26,156,079",
+      "fiscalQuarterEnding": "Sep/2025",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "11/14/2024",
       "lastYearEPS": "($0.23)",
       "time": "time-not-supplied",
@@ -2571,6 +2593,17 @@
       "symbol": "COSM",
       "name": "Cosmos Health Inc.",
       "marketCap": "$22,059,151",
+      "fiscalQuarterEnding": "Sep/2025",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.17",
+      "time": "time-pre-market",
+      "symbol": "SPCB",
+      "name": "SuperCom, Ltd.",
+      "marketCap": "$21,837,193",
       "fiscalQuarterEnding": "Sep/2025",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -3506,6 +3539,17 @@
       "symbol": "QLGN",
       "name": "Qualigen Therapeutics, Inc.",
       "marketCap": "$4,492,943",
+      "fiscalQuarterEnding": "Sep/2025",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.30)",
+      "time": "time-pre-market",
+      "symbol": "IMCC",
+      "name": "IM Cannabis Corp.",
+      "marketCap": "$4,443,051",
       "fiscalQuarterEnding": "Sep/2025",
       "epsForecast": "",
       "noOfEsts": "1"
