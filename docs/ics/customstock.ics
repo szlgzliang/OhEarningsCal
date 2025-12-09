@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:594GE3gOaArM4OP22VXuh
+UID:QzQ6_E-VQtCRHJezszQbO
 SUMMARY:露露柠檬 盘后发布财报
-DTSTAMP:20251209T044934Z
+DTSTAMP:20251209T165256Z
 DTSTART;VALUE=DATE:20251211
 DESCRIPTION:财务季度：Oct/2025。\n代码：LULU，公司：露露柠檬，行业: 消费。\n预计每股收益: $2.22，当前市值: $2
-	1\,560\,070\,261。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LULU \n在富途
+	0\,769\,197\,729。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LULU \n在富途
 	查看：https://www.futunn.com/hk/stock/LULU-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
