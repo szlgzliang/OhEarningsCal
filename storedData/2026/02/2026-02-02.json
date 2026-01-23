@@ -43,7 +43,7 @@
       "marketCap": "$60,452,461,010",
       "fiscalQuarterEnding": "Dec/2025",
       "epsForecast": "$3.47",
-      "noOfEsts": "6"
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "2/03/2025",
@@ -167,6 +167,17 @@
       "noOfEsts": "4"
     },
     {
+      "lastYearRptDt": "2/13/2025",
+      "lastYearEPS": "$2.24",
+      "time": "time-after-hours",
+      "symbol": "DVA",
+      "name": "DaVita Inc.",
+      "marketCap": "$7,504,780,000",
+      "fiscalQuarterEnding": "Dec/2025",
+      "epsForecast": "$3.24",
+      "noOfEsts": "2"
+    },
+    {
       "lastYearRptDt": "2/03/2025",
       "lastYearEPS": "$0.72",
       "time": "time-after-hours",
@@ -240,8 +251,8 @@
       "name": "Ashland Inc.",
       "marketCap": "$2,876,126,489",
       "fiscalQuarterEnding": "Dec/2025",
-      "epsForecast": "$0.36",
-      "noOfEsts": "5"
+      "epsForecast": "$0.23",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "2/03/2025",
