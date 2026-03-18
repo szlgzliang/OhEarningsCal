@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:A6VSRCc__RN3QLA35qTjm
-SUMMARY:露露柠檬 盘后发布财报
-DTSTAMP:20260318T054703Z
+UID:DyVKyg5BYWxu63nxN43T_
+SUMMARY:露露柠檬 发布财报
+DTSTAMP:20260318T173904Z
 DTSTART;VALUE=DATE:20260317
-DESCRIPTION:财务季度：Jan/2026。\n代码：LULU，公司：露露柠檬，行业: 消费。\n预计每股收益: $4.77，当前市值: $1
-	7\,940\,309\,456。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LULU \n在富途
+DESCRIPTION:财务季度：Jan/2026。\n代码：LULU，公司：露露柠檬，行业: 消费。\n预计每股收益: $4.76，当前市值: $1
+	7\,868\,507\,830。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LULU \n在富途
 	查看：https://www.futunn.com/hk/stock/LULU-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_M9bckH6dDA2RCbBTmO2M
+UID:idzCxawPDTdP3vMI0H3qI
 SUMMARY:联合健康集团 发布财报
-DTSTAMP:20260318T054703Z
+DTSTAMP:20260318T173904Z
 DTSTART;VALUE=DATE:20260416
 DESCRIPTION:财务季度：Mar/2026。\n代码：UNH，公司：联合健康集团，行业: 医疗。\n预计每股收益: $6.76，当前市值: $
-	259\,132\,375\,276。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n在富
+	261\,020\,341\,021。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n在富
 	途查看：https://www.futunn.com/hk/stock/UNH-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
