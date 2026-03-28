@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:9ztohrw2HxNst2oVl1fUg
+UID:S8SaSgaQvwUvp4TUM-7n1
 SUMMARY:露露柠檬 发布财报
-DTSTAMP:20260327T172822Z
+DTSTAMP:20260328T054150Z
 DTSTART;VALUE=DATE:20260317
 DESCRIPTION:财务季度：Jan/2026。\n代码：LULU，公司：露露柠檬，行业: 消费。\n预计每股收益: $4.76，当前市值: $1
 	7\,868\,507\,830。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LULU \n在富途
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cPa2gji7K87UQ99RmIibk
+UID:fpAW9qLQzLpI4hcE6P15c
 SUMMARY:联合健康集团 盘前发布财报
-DTSTAMP:20260327T172822Z
+DTSTAMP:20260328T054150Z
 DTSTART;VALUE=DATE:20260421
 DESCRIPTION:财务季度：Mar/2026。\n代码：UNH，公司：联合健康集团，行业: 医疗。\n预计每股收益: $6.62，当前市值: $
 	243\,302\,508\,644。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n在富
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:x1OYxSH4cAOqH9rTSEc0H
+UID:YQbJldtyAUR65PSAryq4Y
 SUMMARY:陶氏公司 盘前发布财报
-DTSTAMP:20260327T172822Z
+DTSTAMP:20260328T054150Z
 DTSTART;VALUE=DATE:20260423
 DESCRIPTION:财务季度：Mar/2026。\n代码：DOW，公司：陶氏公司，行业: 周期性。\n预计每股收益: ($0.32)，当前市值: 
 	$28\,403\,376\,652。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DOW \n在富
