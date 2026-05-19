@@ -7,7 +7,7 @@
       "time": "time-not-supplied",
       "symbol": "JBL",
       "name": "Jabil Inc.",
-      "marketCap": "$35,851,901,008",
+      "marketCap": "$37,383,799,079",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "$2.92",
       "noOfEsts": "4"
@@ -18,7 +18,7 @@
       "time": "time-not-supplied",
       "symbol": "KEP",
       "name": "Korea Electric Power Corporation",
-      "marketCap": "$16,691,066,002",
+      "marketCap": "$17,140,440,856",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "$1.26",
       "noOfEsts": "2"
@@ -29,7 +29,7 @@
       "time": "time-not-supplied",
       "symbol": "KT",
       "name": "KT Corporation",
-      "marketCap": "$9,441,282,667",
+      "marketCap": "$9,503,967,383",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -40,7 +40,7 @@
       "time": "time-pre-market",
       "symbol": "WLY",
       "name": "John Wiley & Sons, Inc.",
-      "marketCap": "$2,047,274,310",
+      "marketCap": "$2,023,152,502",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$1.65",
       "noOfEsts": "1"
@@ -51,10 +51,10 @@
       "time": "time-pre-market",
       "symbol": "WLYB",
       "name": "John Wiley & Sons, Inc.",
-      "marketCap": "$2,047,274,310",
+      "marketCap": "$2,023,152,502",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "6/17/2025",
@@ -62,7 +62,7 @@
       "time": "time-not-supplied",
       "symbol": "LZB",
       "name": "La-Z-Boy Incorporated",
-      "marketCap": "$1,403,683,253",
+      "marketCap": "$1,429,465,190",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$0.83",
       "noOfEsts": "2"
@@ -73,7 +73,7 @@
       "time": "time-not-supplied",
       "symbol": "VNCE",
       "name": "Vince Holding Corp.",
-      "marketCap": "$54,729,472",
+      "marketCap": "$54,215,581",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($0.19)",
       "noOfEsts": "2"
@@ -84,7 +84,7 @@
       "time": "time-not-supplied",
       "symbol": "VTGN",
       "name": "VistaGen Therapeutics, Inc.",
-      "marketCap": "$24,758,736",
+      "marketCap": "$25,776,978",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($0.42)",
       "noOfEsts": "2"
@@ -95,7 +95,7 @@
       "time": "time-not-supplied",
       "symbol": "RMCF",
       "name": "Rocky Mountain Chocolate Factory, Inc.",
-      "marketCap": "$19,878,911",
+      "marketCap": "$23,892,024",
       "fiscalQuarterEnding": "Feb/2026",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -106,7 +106,7 @@
       "time": "time-not-supplied",
       "symbol": "XAIR",
       "name": "Beyond Air, Inc.",
-      "marketCap": "$6,319,687",
+      "marketCap": "$5,965,561",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -117,10 +117,10 @@
       "time": "time-not-supplied",
       "symbol": "SNOA",
       "name": "Sonoma Pharmaceuticals, Inc.",
-      "marketCap": "$1,986,893",
+      "marketCap": "$2,150,949",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "N/A"
     }
   ]
 }
