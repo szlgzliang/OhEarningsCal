@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:CkUI1jsFC8IDH1I13vvnS
+UID:-9pKTTyZIJGJNowG5ScGK
 SUMMARY:联合健康集团 盘前发布财报
-DTSTAMP:20260714T174231Z
+DTSTAMP:20260715T063742Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：UNH，公司：联合健康集团，行业: 医疗。\n预计每股收益: $4.84，当前市值: $
 	389\,675\,682\,312。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n在富
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:mYSqYOMaiIs9VcTimtNTH
+UID:s7YnvO8iOeY4E5NI1gIwK
 SUMMARY:陶氏公司 盘前发布财报
-DTSTAMP:20260714T174231Z
+DTSTAMP:20260715T063742Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：DOW，公司：陶氏公司，行业: 周期性。\n预计每股收益: $1.20，当前市值: $2
 	1\,888\,917\,472。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DOW \n在富途查
