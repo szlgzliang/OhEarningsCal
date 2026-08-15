@@ -2,17 +2,6 @@
   "date": "2026-08-14",
   "data": [
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-pre-market",
-      "symbol": "SIND",
-      "name": "Sinda Ltd.",
-      "marketCap": "$2,665,170,750",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.12)",
-      "noOfEsts": "1"
-    },
-    {
       "lastYearRptDt": "8/14/2025",
       "lastYearEPS": "($0.36)",
       "time": "time-after-hours",
@@ -54,7 +43,7 @@
       "marketCap": "$1,147,093,379",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -65,7 +54,7 @@
       "marketCap": "$987,135,399",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "7/11/2025",
@@ -109,7 +98,7 @@
       "marketCap": "$308,138,557",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "8/14/2025",
@@ -153,7 +142,7 @@
       "marketCap": "$90,281,137",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "8/19/2025",
@@ -175,7 +164,7 @@
       "marketCap": "$53,620,348",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -186,7 +175,7 @@
       "marketCap": "$52,762,839",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "8/13/2025",
@@ -252,7 +241,7 @@
       "marketCap": "$17,869,962",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "8/14/2025",
@@ -300,17 +289,6 @@
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.41)",
-      "time": "time-not-supplied",
-      "symbol": "XCUR",
-      "name": "Exicure, Inc.",
-      "marketCap": "$8,349,857",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
       "lastYearEPS": "($3.20)",
       "time": "time-not-supplied",
       "symbol": "FEMY",
@@ -340,7 +318,7 @@
       "marketCap": "$5,471,331",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "8/14/2025",
@@ -384,7 +362,7 @@
       "marketCap": "$2,047,312",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "7/31/2025",
