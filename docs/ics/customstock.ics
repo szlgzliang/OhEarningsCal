@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:V2lDVk1CqUveleiZUjY-Z
+UID:YDxB1HSkfUd71izNuYJFm
 SUMMARY:陶氏公司 发布财报
-DTSTAMP:20260821T170250Z
+DTSTAMP:20260822T050136Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：DOW，公司：陶氏公司，行业: 周期性。\n预计每股收益: $1.25，当前市值: $2
 	2\,270\,910\,434。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DOW \n在富途查
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:inOqafHru_wGngyK-At0f
+UID:USZUlduSbC5YjtV8_DsZB
 SUMMARY:露露柠檬 盘后发布财报
-DTSTAMP:20260821T170250Z
+DTSTAMP:20260822T050136Z
 DTSTART;VALUE=DATE:20260903
 DESCRIPTION:财务季度：Jul/2026。\n代码：LULU，公司：露露柠檬，行业: 消费。\n预计每股收益: $1.79，当前市值: $1
 	2\,545\,187\,245。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LULU \n在富途
