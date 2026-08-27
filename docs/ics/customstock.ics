@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:chE8Q8vCAJhXIAbdOdKdI
+UID:4NHVy-kEn2sMKkfjBKaJL
 SUMMARY:露露柠檬 盘后发布财报
-DTSTAMP:20260826T181819Z
+DTSTAMP:20260827T152557Z
 DTSTART;VALUE=DATE:20260903
 DESCRIPTION:财务季度：Jul/2026。\n代码：LULU，公司：露露柠檬，行业: 消费。\n预计每股收益: $1.79，当前市值: $1
-	2\,831\,463\,452。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LULU \n在富途
+	2\,616\,756\,297。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LULU \n在富途
 	查看：https://www.futunn.com/hk/stock/LULU-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
