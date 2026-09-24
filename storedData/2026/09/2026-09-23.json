@@ -2,8 +2,8 @@
   "date": "2026-09-23",
   "data": [
     {
-      "lastYearRptDt": "9/24/2025",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "CTAS",
       "name": "Cintas Corporation",
@@ -13,8 +13,8 @@
       "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "9/30/2025",
-      "lastYearEPS": "$1.22",
+      "eps": "$1.22",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "PAYX",
       "name": "Paychex, Inc.",
@@ -24,8 +24,8 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "9/17/2025",
-      "lastYearEPS": "$0.86",
+      "eps": "$0.86",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "GIS",
       "name": "General Mills, Inc.",
@@ -35,8 +35,8 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "8/13/2025",
-      "lastYearEPS": "$0.09",
+      "eps": "$0.09",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "SA",
       "name": "Seabridge Gold, Inc.",
@@ -46,8 +46,8 @@
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "9/24/2025",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "FUL",
       "name": "H. B. Fuller Company",
@@ -57,8 +57,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "9/17/2025",
-      "lastYearEPS": "$0.74",
+      "eps": "$0.74",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "CBRL",
       "name": "Cracker Barrel Old Country Store, Inc.",
@@ -68,8 +68,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "9/24/2025",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "SFIX",
       "name": "Stitch Fix, Inc.",
@@ -79,8 +79,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "9/17/2025",
-      "lastYearEPS": "($0.26)",
+      "eps": "($0.26)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "RZLT",
       "name": "Rezolute, Inc.",
@@ -90,8 +90,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.26",
+      "eps": "$0.26",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "HTT",
       "name": "High Templar Tech Limited",
@@ -101,8 +101,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "9/29/2025",
-      "lastYearEPS": "($0.05)",
+      "eps": "($0.05)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "NEOV",
       "name": "NeoVolta Inc.",
@@ -112,8 +112,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "8/20/2025",
-      "lastYearEPS": "($0.07)",
+      "eps": "($0.07)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "NBP",
       "name": "NovaBridge Biosciences",
@@ -123,8 +123,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "RYDE",
       "name": "Ryde Group Ltd.",
@@ -134,8 +134,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.04)",
+      "eps": "($0.04)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "AACG",
       "name": "ATA Creativity Global",
@@ -145,8 +145,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "DSWL",
       "name": "Deswell Industries, Inc.",
@@ -156,8 +156,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "ATCH",
       "name": "AtlasClear Holdings, Inc.",
@@ -167,8 +167,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.08",
+      "eps": "$0.08",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "SJ",
       "name": "Scienjoy Holding Corporation",
@@ -178,8 +178,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "PTN",
       "name": "Palatin Technologies, Inc.",
@@ -189,8 +189,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($14.40)",
+      "eps": "($14.40)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "GAUZ",
       "name": "Gauzy Ltd.",
@@ -200,8 +200,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($2.80)",
+      "eps": "($2.80)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "CLGN",
       "name": "CollPlant Biotechnologies Ltd.",
@@ -211,8 +211,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.60)",
+      "eps": "($0.60)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "GURE",
       "name": "Gulf Resources, Inc.",
@@ -222,8 +222,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "LKSP",
       "name": "Lake Superior Acquisition Corp.",
