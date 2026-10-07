@@ -97,8 +97,8 @@
       "name": "General Motors Company",
       "marketCap": "$70,397,936,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$3.46",
-      "noOfEsts": "7"
+      "epsForecast": "$3.50",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "10/21/2025",
@@ -130,7 +130,7 @@
       "name": "MSCI Inc.",
       "marketCap": "$40,155,845,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$5.01",
+      "epsForecast": "$5.02",
       "noOfEsts": "6"
     },
     {
@@ -218,13 +218,13 @@
       "name": "East West Bancorp, Inc.",
       "marketCap": "$17,378,584,600",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$2.68",
+      "epsForecast": "$2.69",
       "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "10/21/2025",
       "lastYearEPS": "$2.04",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "EFX",
       "name": "Equifax, Inc.",
       "marketCap": "$16,753,346,600",
@@ -295,7 +295,7 @@
       "name": "Ally Financial Inc.",
       "marketCap": "$11,447,034,900",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.43",
+      "epsForecast": "$1.40",
       "noOfEsts": "6"
     },
     {
@@ -333,17 +333,6 @@
     },
     {
       "lastYearRptDt": "10/21/2025",
-      "lastYearEPS": "$2.28",
-      "time": "time-not-supplied",
-      "symbol": "WAL",
-      "name": "Western Alliance Bancorporation",
-      "marketCap": "$8,293,847,600",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$2.43",
-      "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "10/21/2025",
       "lastYearEPS": "$1.10",
       "time": "time-after-hours",
       "symbol": "ADC",
@@ -361,7 +350,7 @@
       "name": "Commerce Bancshares, Inc.",
       "marketCap": "$7,908,850,200",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.08",
+      "epsForecast": "$1.07",
       "noOfEsts": "8"
     },
     {
@@ -515,7 +504,7 @@
       "name": "National Bank Holdings Corporation",
       "marketCap": "$1,683,149,440",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.84",
+      "epsForecast": "$0.59",
       "noOfEsts": "3"
     },
     {
@@ -605,17 +594,6 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.81",
       "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "10/21/2025",
-      "lastYearEPS": "$0.86",
-      "time": "time-not-supplied",
-      "symbol": "SMBK",
-      "name": "SmartFinancial, Inc.",
-      "marketCap": "$865,011,780",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.96",
-      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "10/21/2025",
