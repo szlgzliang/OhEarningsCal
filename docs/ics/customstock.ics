@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:qzJW3OnP42k2O9v2yMPX_
+UID:iHo4PyBo5YbR0HGSelfvO
 SUMMARY:联合健康集团 发布财报
-DTSTAMP:20261014T094103Z
+DTSTAMP:20261014T201828Z
 DTSTART;VALUE=DATE:20261013
 DESCRIPTION:财务季度：Sep/2026。\n代码：UNH，公司：联合健康集团，行业: 医疗。\n预计每股收益: $4.12，当前市值: $
-	339\,757\,597\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n在富
+	339\,075\,432\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n在富
 	途查看：https://www.futunn.com/hk/stock/UNH-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lgbRw032wGx-Q61rHpJFq
+UID:ElDNhmQZTopx3Bvjzb3M0
 SUMMARY:陶氏公司 盘前发布财报
-DTSTAMP:20261014T094103Z
+DTSTAMP:20261014T201828Z
 DTSTART;VALUE=DATE:20261022
-DESCRIPTION:财务季度：Sep/2026。\n代码：DOW，公司：陶氏公司，行业: 周期性。\n预计每股收益: $0.68，当前市值: $2
-	0\,312\,221\,700。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DOW \n在富途查
+DESCRIPTION:财务季度：Sep/2026。\n代码：DOW，公司：陶氏公司，行业: 周期性。\n预计每股收益: $0.65，当前市值: $2
+	0\,593\,934\,300。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DOW \n在富途查
 	看：https://www.futunn.com/hk/stock/DOW-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
